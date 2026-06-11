@@ -1,4 +1,4 @@
-# 🏆 RankingVendasWeb
+# 🏆 Ranking-Vendas-Web
 
 O **RankingVendasWeb** foi desenvolvido com o objetivo de modernizar um processo que antes era realizado exclusivamente por meio de planilhas de vendas de acesso restrito. A proposta do projeto foi transformar informações que ficavam concentradas apenas em usuários administrativos em um sistema web acessível, dinâmico e transparente para toda a equipe comercial.
 
