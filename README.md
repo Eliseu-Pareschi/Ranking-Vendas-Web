@@ -19,7 +19,6 @@ Além de aumentar a visibilidade dos resultados, o projeto também foi pensado p
 * 🗄️ MySQL
 * 📊 Apache POI (Leitura de Planilhas Excel)
 * 🎨 HTML
-* 🎨 CSS
 * 📱 Bootstrap
 
 ## 💡 Próximas Evoluções
