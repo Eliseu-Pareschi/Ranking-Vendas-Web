@@ -22,8 +22,5 @@ Além de aumentar a visibilidade dos resultados, o projeto também foi pensado p
 * 📱 Bootstrap
 
 ## 💡 Próximas Evoluções
-
-* 🔗 Integração com Google Sheets
 * ⚡ Atualização automática dos dados em tempo real
-* 📈 Dashboard interativo com gráficos e métricas de desempenho
 * 🌐 Hospedagem em ambiente cloud para acesso público
