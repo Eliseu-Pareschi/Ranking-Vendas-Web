@@ -1,26 +1,57 @@
 # 🏆 Ranking-Vendas-Web
 
-O **Ranking-Vendas-Web** foi desenvolvido com o objetivo de modernizar um processo que antes era realizado exclusivamente por meio de planilhas de vendas de acesso restrito. A proposta do projeto foi transformar informações que ficavam concentradas apenas em usuários administrativos em um sistema web acessível, dinâmico e transparente para toda a equipe comercial.
+Projeto desenvolvido para transformar uma planilha Excel utilizada diariamente em uma ferramenta web acessível e atualizada automaticamente.
 
-A solução permite importar dados de vendas, armazená-los em banco de dados MySQL e exibir um ranking atualizado dos vendedores, possibilitando que cada colaborador acompanhe seu desempenho de forma prática e organizada.
+## 📌 Contexto
 
-Além de aumentar a visibilidade dos resultados, o projeto também foi pensado para incentivar o engajamento e a competitividade saudável entre os vendedores, utilizando um sistema de classificação baseado na quantidade de vendas realizadas.
+Durante a rotina de trabalho, os rankings de vendas eram acompanhados através de planilhas Excel. O objetivo deste projeto foi automatizar esse processo e disponibilizar as informações de forma visual para os usuários.
 
-## 📸 Demonstração
-![RankingVendasWeb](https://github.com/user-attachments/assets/49aa1c7e-4bad-4d1d-8059-6488de15b355)
+O projeto começou como uma aplicação Java local utilizando JSP, Servlets e Apache Tomcat para leitura das planilhas Excel.
 
+Com a necessidade de disponibilizar o sistema pela internet, a arquitetura foi evoluindo para uma solução baseada em Firebase, HTML, CSS, JavaScript e VBA.
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Funcionalidades
 
-* ☕ Java
-* 🌐 JSP (Java Server Pages)
-* 🗄️ Servlets
-* 📄 Apache Tomcat
-* 🗄️ MySQL
-* 📊 Apache POI (Leitura de Planilhas Excel)
-* 🎨 HTML
-* 📱 Bootstrap
+* Exibição do ranking de vendas.
+* Consulta por mês.
+* Atualização automática dos dados.
+* Destaque visual para os três primeiros colocados.
+* Integração entre Excel e Firebase.
+* Interface responsiva.
 
-## 💡 Próximas Evoluções
-* ⚡ Atualização automática dos dados em tempo real
-* 🌐 Hospedagem em ambiente cloud para acesso público
+## 🛠️ Tecnologias utilizadas
+
+### Versão local
+
+* Java
+* JSP
+* Servlets
+* Apache POI
+* Apache Tomcat
+
+### Versão online
+
+* HTML
+* CSS
+* JavaScript
+* Firebase Realtime Database
+* Excel VBA
+
+## 🏗️ Arquitetura atual
+
+```text
+Excel (.xlsm)
+↓
+VBA
+↓
+Firebase Realtime Database
+↓
+HTML/CSS/JavaScript
+↓
+Aplicação Web
+```
+
+## 👨‍💻 Autor
+
+Eliseu Pareschi
+Estudante de Ciência da Computação.
