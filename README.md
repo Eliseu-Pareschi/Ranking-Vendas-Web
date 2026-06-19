@@ -1,4 +1,4 @@
-# 🏆 Ranking-Vendas-Web
+# 🏆 Ranking Vendas Web
 
 Projeto desenvolvido para transformar uma planilha Excel utilizada diariamente em uma ferramenta web acessível e atualizada automaticamente.
 
@@ -8,20 +8,20 @@ Durante a rotina de trabalho, os rankings de vendas eram acompanhados através d
 
 O projeto começou como uma aplicação Java local utilizando JSP, Servlets e Apache Tomcat para leitura das planilhas Excel.
 
-Com a necessidade de disponibilizar o sistema pela internet, a arquitetura foi evoluindo para uma solução baseada em Firebase, HTML, CSS, JavaScript e VBA.
+Com a necessidade de disponibilizar o sistema pela internet, a arquitetura evoluiu para uma solução baseada em Firebase, HTML, CSS, JavaScript e VBA.
 
 ## 🚀 Funcionalidades
 
-* Exibição do ranking de vendas.
-* Consulta por mês.
-* Atualização automática dos dados.
-* Destaque visual para os três primeiros colocados.
-* Integração entre Excel e Firebase.
-* Interface responsiva.
+* Exibição do ranking de vendas
+* Consulta por mês
+* Atualização automática dos dados
+* Destaque visual para os três primeiros colocados
+* Integração entre Excel e Firebase
+* Interface responsiva
 
 ## 🛠️ Tecnologias utilizadas
 
-### Versão local
+### Versão local (1.0)
 
 * Java
 * JSP
@@ -29,10 +29,10 @@ Com a necessidade de disponibilizar o sistema pela internet, a arquitetura foi e
 * Apache POI
 * Apache Tomcat
 
-### Versão online
+### Versão online (2.0)
 
-* HTML
-* CSS
+* HTML5
+* CSS3
 * JavaScript
 * Firebase Realtime Database
 * Excel VBA
@@ -46,8 +46,15 @@ VBA
 ↓
 Firebase Realtime Database
 ↓
-HTML/CSS/JavaScript
+HTML / CSS / JavaScript
 ↓
 Aplicação Web
 ```
 
+## 🎯 Objetivo do projeto
+
+Demonstrar a evolução de uma solução local baseada em Excel para uma aplicação web moderna, utilizando integração entre automação, computação em nuvem e desenvolvimento web.
+
+
+
+Estudante de Ciência da Computação.
