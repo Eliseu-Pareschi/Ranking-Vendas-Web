@@ -1,1 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-br">
 
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ranking de Vendas</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <header>
+        <h1>🏆 Ranking de Vendas</h1>
+        <p>Acompanhamento em tempo real</p>
+    </header>
+
+    <div class="filtro">
+        <label for="mesFiltro">Selecione o período:</label>
+
+        <select id="mesFiltro">
+            <option value="JUNHO">Junho</option>
+            <option value="MAIO">Maio</option>
+        </select>
+    </div>
+    <div id="ultimaAtualizacao"></div>
+
+    <div class="card">
+        <table>
+            <thead>
+                <tr>
+                    <th>Posição</th>
+                    <th>Nome</th>
+                    <th>Quantidade</th>
+                </tr>
+            </thead>
+
+            <tbody id="tabela-ranking">
+                <tr>
+                    <td colspan="3">Carregando ranking...</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
+<footer>
+
+<p>
+
+RankingVendasWeb © 2026
+
+</p>
+
+<p>
+
+Desenvolvido por Eliseu Pareschi
+
+</p>
+
+</footer>
