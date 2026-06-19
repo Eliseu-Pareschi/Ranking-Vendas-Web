@@ -1,5 +1,7 @@
 # 🏆 Ranking Vendas Web
 
+https://rankingvendasonline.netlify.app/
+
 Projeto desenvolvido para transformar uma planilha Excel utilizada diariamente em uma ferramenta web acessível e atualizada automaticamente.
 
 ## 📌 Contexto
