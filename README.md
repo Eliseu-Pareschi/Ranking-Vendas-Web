@@ -1,6 +1,11 @@
 # 🏆 Ranking Vendas Web
 
-# 🌐 Aplicação online: https://rankingvendasonline.netlify.app/
+# 🌐 Aplicação online: https://rankingvendasonline.netlify.app
+
+# 📷 Interface
+
+<img width="1599" height="512" alt="image" src="https://github.com/user-attachments/assets/503aec53-cf55-4a73-b0d8-704d07d6773a" />
+
 
 Projeto desenvolvido para transformar uma planilha Excel utilizada diariamente em uma ferramenta web acessível e atualizada automaticamente.
 
