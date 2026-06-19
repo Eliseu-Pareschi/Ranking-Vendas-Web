@@ -57,4 +57,3 @@ Demonstrar a evolução de uma solução local baseada em Excel para uma aplica�
 
 
 
-Estudante de Ciência da Computação.
