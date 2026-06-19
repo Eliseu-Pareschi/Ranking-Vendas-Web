@@ -51,7 +51,3 @@ HTML/CSS/JavaScript
 Aplicação Web
 ```
 
-## 👨‍💻 Autor
-
-Eliseu Pareschi
-Estudante de Ciência da Computação.
